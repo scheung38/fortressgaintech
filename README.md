@@ -44,6 +44,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
+### Docker
+ 
+https://forums.docker.com/t/restart-docker-from-command-line/9420/8
 
 
 ### Ghost
