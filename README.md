@@ -106,6 +106,14 @@ https://my-secure.justanswer.com/question/index/f2044782bd214d3cbe73800a2ced5145
 
 ### Minikube
 
+https://github.com/kubernetes/minikube/issues/2765
+
+If you have an old ~/.minikube, try
+
+$ minikube delete
+
+$ rm -rf ~/.minikube
+
 https://www.katacoda.com/courses/kubernetes
 
 https://kubernetes.io/docs/tutorials/hello-minikube/
