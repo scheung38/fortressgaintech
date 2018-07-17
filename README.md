@@ -246,6 +246,21 @@ $ rm -rf ~/.minikube
 
 
 ### Node.js
+
+https://eric.blog/2016/08/23/set-default-node-version-with-nvm/
+
+#### Install the version that you would like 
+
+nvm install 6.1.0
+
+nvm install 10
+
+#### Set 6.1.0 (or another version) as default
+
+nvm alias default 6.1.0
+
+nvm alias default 10
+
 <a href="https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65">https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65</a>
 
 
