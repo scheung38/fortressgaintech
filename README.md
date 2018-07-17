@@ -126,7 +126,7 @@ https://kubernetes.io/docs/tutorials/hello-minikube/
 
 https://itnext.io/deploy-jenkins-with-dynamic-slaves-in-minikube-8aef5404e9c1
 
-
+https://github.com/istio/istio/wiki/Developing-with-minikube
 
 
 ### Node.js
