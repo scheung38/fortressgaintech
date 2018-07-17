@@ -43,6 +43,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Angular
 
+<a href="https://stackoverflow.com/questions/39142616/what-are-the-practical-differences-between-template-driven-and-reactive-forms
+">https://stackoverflow.com/questions/39142616/what-are-the-practical-differences-between-template-driven-and-reactive-forms
+</a>
+
 https://stackoverflow.com/questions/39142616/what-are-the-practical-differences-between-template-driven-and-reactive-forms
 
 
@@ -55,6 +59,7 @@ https://www.edx.org/course/advanced-angular-0
 https://www.edx.org/course/building-functional-prototypes-using-nodejs-0
 
 https://www.edx.org/course/continuous-integration-and-continuous-deployment-0
+
 
 https://www.edx.org/course/devops-testing-1
 
