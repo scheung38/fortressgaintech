@@ -54,76 +54,75 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <a href="https://www.edx.org/course/advanced-angular-0">https://www.edx.org/course/advanced-angular-0</a>
 
-https://www.edx.org/course/building-functional-prototypes-using-nodejs-0
+<a href="https://www.edx.org/course/building-functional-prototypes-using-nodejs-0">https://www.edx.org/course/building-functional-prototypes-using-nodejs-0</a>
 
-https://www.edx.org/course/continuous-integration-and-continuous-deployment-0
+<a href="https://www.edx.org/course/continuous-integration-and-continuous-deployment-0">https://www.edx.org/course/continuous-integration-and-continuous-deployment-0</a>
 
+<a href="https://www.edx.org/course/devops-testing-1">https://www.edx.org/course/devops-testing-1</a>
 
-https://www.edx.org/course/devops-testing-1
+<a href="https://www.edx.org/course/devops-for-databases-0">https://www.edx.org/course/devops-for-databases-0</a>
 
-https://www.edx.org/course/devops-for-databases-0
+<a href="https://www.edx.org/course/devops-for-mobile-apps-0">https://www.edx.org/course/devops-for-mobile-apps-0</a>
 
-https://www.edx.org/course/devops-for-mobile-apps-0
+<a href="https://www.edx.org/course/infrastructure-as-code-0">https://www.edx.org/course/infrastructure-as-code-0</a>
 
-https://www.edx.org/course/infrastructure-as-code-0
+<a href="https://www.edx.org/course/speech-recognition-systems-0">https://www.edx.org/course/speech-recognition-systems-0</a>
 
-https://www.edx.org/course/speech-recognition-systems-0
+<a href="https://www.edx.org/course/introduction-to-nodejs-0">https://www.edx.org/course/introduction-to-nodejs-0</a>
 
-https://www.edx.org/course/introduction-to-nodejs-0
+<a href="https://www.edx.org/course/aws-developer-building-on-aws">https://www.edx.org/course/aws-developer-building-on-aws</a>
 
-https://www.edx.org/course/aws-developer-building-on-aws
+<a href="https://www.edx.org/course/aws-developer-optimizing-on-aws">https://www.edx.org/course/aws-developer-optimizing-on-aws</a>
 
-https://www.edx.org/course/aws-developer-optimizing-on-aws
+<a href="https://www.edx.org/course/aws-developer-deploying-on-aws">https://www.edx.org/course/aws-developer-deploying-on-aws</a>
 
-https://www.edx.org/course/aws-developer-deploying-on-aws
+<a href="https://www.edx.org/course/conversation-as-a-platform-with-the-microsoft-bot-framework">https://www.edx.org/course/conversation-as-a-platform-with-the-microsoft-bot-framework</a>
 
-https://www.edx.org/course/conversation-as-a-platform-with-the-microsoft-bot-framework
+<a href="https://www.edx.org/course/how-to-build-chatbots-and-make-money">https://www.edx.org/course/how-to-build-chatbots-and-make-money</a>
 
-https://www.edx.org/course/how-to-build-chatbots-and-make-money
+<a href="https://www.edx.org/course/ux-design-from-wireframe-to-prototype">https://www.edx.org/course/ux-design-from-wireframe-to-prototype</a>
 
-https://www.edx.org/course/ux-design-from-wireframe-to-prototype
+<a href="https://www.edx.org/course/rise-to-leadership-become-a-ceo-0">https://www.edx.org/course/rise-to-leadership-become-a-ceo-0</a>
 
-https://www.edx.org/course/rise-to-leadership-become-a-ceo-0
+<a href="https://www.edx.org/course/react-router-and-redux">https://www.edx.org/course/react-router-and-redux</a>
 
-https://www.edx.org/course/react-router-and-redux
+<a href="https://www.edx.org/course/introduction-to-fintech">https://www.edx.org/course/introduction-to-fintech</a>
 
-https://www.edx.org/course/introduction-to-fintech
+<a href="https://www.edx.org/course/introduction-to-kubernetes">https://www.edx.org/course/introduction-to-kubernetes</a>
 
-https://www.edx.org/course/introduction-to-kubernetes
+<a href="https://www.edx.org/course/islamic-finance-and-banking">https://www.edx.org/course/islamic-finance-and-banking</a>
 
-https://www.edx.org/course/islamic-finance-and-banking
+<a href="https://www.edx.org/course/music-technology-foundations">https://www.edx.org/course/music-technology-foundations</a>
 
-https://www.edx.org/course/music-technology-foundations
+<a href="https://www.edx.org/course/agile-software-development">https://www.edx.org/course/agile-software-development</a>
 
-https://www.edx.org/course/agile-software-development
+<a href="https://www.edx.org/course/python-for-data-science">https://www.edx.org/course/python-for-data-science</a>
 
-https://www.edx.org/course/python-for-data-science
+<a href="https://www.edx.org/course/grant-writing-crowdfunding-public-michiganx-publib607x">https://www.edx.org/course/grant-writing-crowdfunding-public-michiganx-publib607x</a>
 
-https://www.edx.org/course/grant-writing-crowdfunding-public-michiganx-publib607x
+<a href="https://www.edx.org/course/unlocking-employability-uqx-employ101x-1">https://www.edx.org/course/unlocking-employability-uqx-employ101x-1</a>
 
-https://www.edx.org/course/unlocking-employability-uqx-employ101x-1
+<a href="https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x-4">https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x-4</a>
 
-https://www.edx.org/course/becoming-entrepreneur-mitx-launch-x-4
+<a href="https://www.edx.org/course/becoming-successful-leader-inclusive-catalystx-il2x-1">https://www.edx.org/course/becoming-successful-leader-inclusive-catalystx-il2x-1</a>
 
-https://www.edx.org/course/becoming-successful-leader-inclusive-catalystx-il2x-1
+<a href="https://www.edx.org/course/business-model-metrics-and-advanced-tools">https://www.edx.org/course/business-model-metrics-and-advanced-tools</a>
 
-https://www.edx.org/course/business-model-metrics-and-advanced-tools
+<a href="https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x-0">https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x-0</a>
 
-https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x-0
+<a href="https://www.edx.org/course/yi-yu-yu-wen-hua-jiao-ji-chinese-pekingx-20000003x">https://www.edx.org/course/yi-yu-yu-wen-hua-jiao-ji-chinese-pekingx-20000003x</a>
 
-https://www.edx.org/course/yi-yu-yu-wen-hua-jiao-ji-chinese-pekingx-20000003x
+<a href="https://www.edx.org/course/iot-networks-protocols-curtinx-iot3x">https://www.edx.org/course/iot-networks-protocols-curtinx-iot3x</a>
 
-https://www.edx.org/course/iot-networks-protocols-curtinx-iot3x
+<a href="https://www.edx.org/course/fundamentals-containers-kubernetes-red-hat-do081x">https://www.edx.org/course/fundamentals-containers-kubernetes-red-hat-do081x</a>
 
-https://www.edx.org/course/fundamentals-containers-kubernetes-red-hat-do081x
+<a href="https://www.edx.org/course/business-model-implementation-delftx-bmi-4x-0">https://www.edx.org/course/business-model-implementation-delftx-bmi-4x-0</a>
 
-https://www.edx.org/course/business-model-implementation-delftx-bmi-4x-0
+<a href="https://www.edx.org/course/interpreting-vernacular-architecture-in-asia">https://www.edx.org/course/interpreting-vernacular-architecture-in-asia</a>
 
-https://www.edx.org/course/interpreting-vernacular-architecture-in-asia
+<a href="https://www.edx.org/course/introduction-to-music-theory-0">https://www.edx.org/course/introduction-to-music-theory-0</a>
 
-https://www.edx.org/course/introduction-to-music-theory-0
-
-https://www.edx.org/course/energia-electrica-conceptos-y-principios-basicos-0
+<a href="https://www.edx.org/course/energia-electrica-conceptos-y-principios-basicos-0">https://www.edx.org/course/energia-electrica-conceptos-y-principios-basicos-0</a>
 
 
 
@@ -132,7 +131,7 @@ https://www.edx.org/course/energia-electrica-conceptos-y-principios-basicos-0
 
 ### Docker
  
-https://forums.docker.com/t/restart-docker-from-command-line/9420/8
+<a href="https://forums.docker.com/t/restart-docker-from-command-line/9420/8">https://forums.docker.com/t/restart-docker-from-command-line/9420/8</a>
 
 
 ### Drupal
@@ -140,63 +139,63 @@ https://forums.docker.com/t/restart-docker-from-command-line/9420/8
 
 
 ### Ghost
-http://themes.ghost.org/docs/getting-started
+<a href="http://themes.ghost.org/docs/getting-started">http://themes.ghost.org/docs/getting-started</a>
 
-https://docs.ghost.org/v0.11/docs/installing-ghost-on-mac
+<a href="https://docs.ghost.org/v0.11/docs/installing-ghost-on-mac">https://docs.ghost.org/v0.11/docs/installing-ghost-on-mac</a>
 
-http://localhost:2368/
+<a href="http://localhost:2368/">http://localhost:2368/</a>
 
 
 ### Git
-https://www.toptal.com/git/the-advanced-git-guide
+<a href="https://www.toptal.com/git/the-advanced-git-guide">https://www.toptal.com/git/the-advanced-git-guide</a>
 
 
 
 
 ### Kubernetes
 
-https://kubernetes.io/docs/user-journeys/users/application-developer/foundational/#section-2
+<a href="https://kubernetes.io/docs/user-journeys/users/application-developer/foundational/#section-2">https://kubernetes.io/docs/user-journeys/users/application-developer/foundational/#section-2</a>
 
-https://github.com/kubernetes/minikube
+<a href="https://github.com/kubernetes/minikube">https://github.com/kubernetes/minikube</a>
 
-https://stackoverflow.com/questions/45753672/why-minikube-needs-a-vm
+<a href="https://stackoverflow.com/questions/45753672/why-minikube-needs-a-vm">https://stackoverflow.com/questions/45753672/why-minikube-needs-a-vm</a>
 
-https://github.com/kubernetes/minikube/issues/646
+<a href="https://github.com/kubernetes/minikube/issues/646">https://github.com/kubernetes/minikube/issues/646</a>
 
-https://github.com/kubernetes/minikube/issues/1942
+<a href="https://github.com/kubernetes/minikube/issues/1942">https://github.com/kubernetes/minikube/issues/1942</a>
 
-https://github.com/kubernetes/minikube/issues/1665
+<a href="https://github.com/kubernetes/minikube/issues/1665">https://github.com/kubernetes/minikube/issues/1665</a>
 
-https://akomljen.com/set-up-a-jenkins-ci-cd-pipeline-with-kubernetes/
+<a href="https://akomljen.com/set-up-a-jenkins-ci-cd-pipeline-with-kubernetes/">https://akomljen.com/set-up-a-jenkins-ci-cd-pipeline-with-kubernetes</a>
 
-https://codingcompiler.com/kubernetes-interview-questions-answers/
+<a href="https://codingcompiler.com/kubernetes-interview-questions-answers/">https://codingcompiler.com/kubernetes-interview-questions-answers</a>
 
-https://container-solutions.com/kubernetes-deployment-strategies/
+<a href="https://container-solutions.com/kubernetes-deployment-strategies/">https://container-solutions.com/kubernetes-deployment-strategies/</a>
 
-https://thenewstack.io/kubernetes-deployments-work/
+<a href="https://thenewstack.io/kubernetes-deployments-work/">https://thenewstack.io/kubernetes-deployments-work/</a>
 
-https://www.katacoda.com/courses/kubernetes
+<a href="https://www.katacoda.com/courses/kubernetes">https://www.katacoda.com/courses/kubernetes</a>
 
 
 
 ### Helm
 
 
-https://docs.helm.sh/using_helm/#quickstart
+<a href="https://docs.helm.sh/using_helm/#quickstart">https://docs.helm.sh/using_helm/#quickstart</a>
 
-https://docs.helm.sh/using_helm/#role-based-access-control
+<a href="https://docs.helm.sh/using_helm/#role-based-access-control">https://docs.helm.sh/using_helm/#role-based-access-control</a>
 
-https://medium.com/@gajus/the-missing-ci-cd-kubernetes-component-helm-package-manager-1fe002aac680
+<a href="https://medium.com/@gajus/the-missing-ci-cd-kubernetes-component-helm-package-manager-1fe002aac680">https://medium.com/@gajus/the-missing-ci-cd-kubernetes-component-helm-package-manager-1fe002aac680</a>
 
-https://daemonza.github.io/2017/02/20/using-helm-to-deploy-to-kubernetes/#conclusion
+<a href="https://daemonza.github.io/2017/02/20/using-helm-to-deploy-to-kubernetes/#conclusion">https://daemonza.github.io/2017/02/20/using-helm-to-deploy-to-kubernetes/#conclusion</a>
 
-https://technologyconversations.com/2018/06/01/deploying-jenkins-to-a-kubernetes-cluster-using-helm/
+<a href="https://technologyconversations.com/2018/06/01/deploying-jenkins-to-a-kubernetes-cluster-using-helm/">https://technologyconversations.com/2018/06/01/deploying-jenkins-to-a-kubernetes-cluster-using-helm/</a>
 
-https://my-secure.justanswer.com/question/index/f2044782bd214d3cbe73800a2ced5145?continueTheConversation=False&comingFromAdservEmail=False&ratedThroughEmail=False&rating=0&paymentType=Unknownz
+<a href="https://my-secure.justanswer.com/question/index/f2044782bd214d3cbe73800a2ced5145?continueTheConversation=False&comingFromAdservEmail=False&ratedThroughEmail=False&rating=0&paymentType=Unknownz">https://my-secure.justanswer.com/question/index/f2044782bd214d3cbe73800a2ced5145?continueTheConversation=False&comingFromAdservEmail=False&ratedThroughEmail=False&rating=0&paymentType=Unknownz</a>
 
 ### Minikube
 
-https://github.com/kubernetes/minikube/issues/2765
+<a href="https://github.com/kubernetes/minikube/issues/2765">https://github.com/kubernetes/minikube/issues/2765</a>
 
 If you have an old ~/.minikube, try
 
@@ -204,26 +203,25 @@ $ minikube delete
 
 $ rm -rf ~/.minikube
 
-https://www.katacoda.com/courses/kubernetes
+<a href="https://www.katacoda.com/courses/kubernetes">https://www.katacoda.com/courses/kubernetes</a>
 
-https://kubernetes.io/docs/tutorials/hello-minikube/
+<a href="https://kubernetes.io/docs/tutorials/hello-minikube/">https://kubernetes.io/docs/tutorials/hello-minikube/</a>
 
-https://itnext.io/deploy-jenkins-with-dynamic-slaves-in-minikube-8aef5404e9c1
+<a href="https://itnext.io/deploy-jenkins-with-dynamic-slaves-in-minikube-8aef5404e9c1">https://itnext.io/deploy-jenkins-with-dynamic-slaves-in-minikube-8aef5404e9c1</a>
 
-https://github.com/istio/istio/wiki/Developing-with-minikube
+<a href="https://github.com/istio/istio/wiki/Developing-with-minikube">https://github.com/istio/istio/wiki/Developing-with-minikube</a>
 
 
 ### Node.js
-https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65
+<a href="https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65">https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65</a>
 
-https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65
 
-https://blog.risingstack.com/mastering-async-await-in-nodejs/
+<a href="https://blog.risingstack.com/mastering-async-await-in-nodejs/">https://blog.risingstack.com/mastering-async-await-in-nodejs/</a>
 
-https://hackernoon.com/async-await-essentials-for-production-loops-control-flows-limits-23eb40f171bd
+<a href="https://hackernoon.com/async-await-essentials-for-production-loops-control-flows-limits-23eb40f171bd">https://hackernoon.com/async-await-essentials-for-production-loops-control-flows-limits-23eb40f171bd</a>
 
-https://github.com/axios/axios/issues/907
+<a href="https://github.com/axios/axios/issues/907">https://github.com/axios/axios/issues/907</a>
 
-https://gist.github.com/pionize/b07a3a99e7490906bcf1e1b350e89653
+<a href="https://gist.github.com/pionize/b07a3a99e7490906bcf1e1b350e89653">https://gist.github.com/pionize/b07a3a99e7490906bcf1e1b350e89653</a>
 
-https://github.com/axios/axios/issues/907
+ 
