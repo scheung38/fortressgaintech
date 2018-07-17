@@ -39,6 +39,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## Topics
 
+### JustAnswer
+
+<a href="https://my-secure.justanswer.com/account/logon?ReturnUrl=%2fquestion%2findex%2ff2044782bd214d3cbe73800a2ced5145%3fcontinueTheConversation%3dFalse%26comingFromAdservEmail%3dFalse%26ratedThroughEmail%3dFalse%26rating%3d0%26paymentType%3dUnknown&continueTheConversation=False&comingFromAdservEmail=False&ratedThroughEmail=False&rating=0&paymentType=Unknown">JustAnswer</a>
 
 
 ### Angular
@@ -47,6 +50,16 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ">https://stackoverflow.com/questions/39142616/what-are-the-practical-differences-between-template-driven-and-reactive-forms
 </a>
 
+https://investmentnovel.com/angular-6-forms-tutorial-example-from-scratch/
+
+
+### AWS
+
+<a href="https://aws.amazon.com/training/">https://aws.amazon.com/training/</a>
+
+https://d1.awsstatic.com/training-and-certification/docs/AWS_certified_DevOps_Engineer_Professional_SampleExam.pdf?refid=gs_card
+
+https://www.aws.training/training/schedule?courseId=10018&sortField=2&includeUnlisted=false&dateRangeStart=2018-07-17T18:54:16.952Z&dateRangeEnd=2019-07-17T18:54:16.952Z&pageNumber=1&pageSize=15&sortAscending=true&displaymode=list&calendardate=
 
 ### edX
 
@@ -127,11 +140,24 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
+### DevOps 
+
+http://linuxrecruit.co.uk/blog?title=Learn%20Terraform%20The%20Hard%20Way%20-%20Ian%20Miell&id=93
+
+https://leanpub.com/learngitthehardway
+
+https://leanpub.com/learnbashthehardway
+
+https://www.ibm.com/it-infrastructure/z
+
+https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/
 
 
 ### Docker
  
 <a href="https://forums.docker.com/t/restart-docker-from-command-line/9420/8">https://forums.docker.com/t/restart-docker-from-command-line/9420/8</a>
+
+https://www.manning.com/books/docker-in-practice
 
 
 ### Drupal
@@ -153,6 +179,13 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 ### Kubernetes
+
+Kubernetes Tutorial 4 | Minikube Setup
+https://www.youtube.com/watch?v=0rZcYXtbGpc
+
+https://kubernetes.io/docs/tasks/run-application/run-statful-application-deployment/
+
+https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/
 
 <a href="https://kubernetes.io/docs/user-journeys/users/application-developer/foundational/#section-2">https://kubernetes.io/docs/user-journeys/users/application-developer/foundational/#section-2</a>
 
@@ -176,7 +209,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <a href="https://www.katacoda.com/courses/kubernetes">https://www.katacoda.com/courses/kubernetes</a>
 
-
+https://kubernetes.io/docs/user-journeys/users/application-developer/foundational/#section-1
 
 ### Helm
 
